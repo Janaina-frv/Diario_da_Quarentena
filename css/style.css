@@ -1,0 +1,34 @@
+body{
+	background-color: black;
+}
+a{color:#5B3310;}
+a:hover{color:white;}
+.cabecalho{
+	background-color: #FDC23A;
+	margin-bottom: 10px;
+	font-size: 21px;
+	font-weight: bold;
+}
+.image-logo{
+	max-width: 200px;
+	margin:10px;
+}
+.slider{
+	margin-bottom: 20px
+}
+.col-12{padding: 0px;}
+.card{
+	width: 20rem;
+	background-color: transparent;
+	border:none;
+}
+h5{color:yellow;}
+p{color:grey;}
+.meu-btn{color:yellow;
+background-color: #5B3310;}
+.meu-btn:hover{background-color: yellow;}
+.rodape{
+	color:#5B3310;
+	height: 50px;
+	background-color: #FDC23A;
+}
